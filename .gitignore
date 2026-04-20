@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+venv/
+env/
+ENV/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Benchmark Results (could be large csv files)
+*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
